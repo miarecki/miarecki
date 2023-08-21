@@ -2,5 +2,6 @@
 
 - 🗺️: From 🇵🇱
 - 🔭 I’m currently working on ... my Math degree
-- 🌱 I’m currently learning ... SQL, Python and R 
+- 🌱 I’m currently learning ... Cryptography
+- 🖥️ Python | R | MATLAB | mySQL
 
